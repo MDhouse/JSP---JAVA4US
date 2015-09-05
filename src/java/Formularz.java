@@ -18,11 +18,9 @@ public class Formularz extends HttpServlet {
     {
         super();
     }
-/*
-    przerobić walidację, tak by można było dodać 5 użytkowników i by można było ich normalnie dodawać
-    
-    
-    */
+
+
+ 
     
     protected void doGet(HttpServletRequest request, HttpServletResponse response)throws ServletException, IOException 
     {

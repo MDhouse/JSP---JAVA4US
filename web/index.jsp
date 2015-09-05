@@ -5,8 +5,6 @@
     </head>
     <body>
         <h1>Konferencja JAVA 4 US!</h1>
- 		<p><a href="Formularz.jsp">Rejestracja</a></p>
-                <p><a href="">Uczestnicy</a></p>
-        
+ 		<p><a href="Formularz.jsp">Rejestracja</a></p>       
     </body>
 </html>
